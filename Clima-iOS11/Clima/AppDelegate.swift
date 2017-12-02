@@ -1,7 +1,7 @@
 //
 //  AppDelegate.swift
 //  Clima
-//
+//  sellen wei
 
 import UIKit
 
